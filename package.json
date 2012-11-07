@@ -1,0 +1,20 @@
+{
+  "name": "linky",
+  "version": "0.0.0",
+  "description": "Takes a string and returns a string that wraps http links in anchor tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "homepage": "https://github.com/Colingo/linky",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Colingo/linky.git"
+  },
+  "keywords": [
+    "html",
+    "link"
+  ],
+  "author": "Robert Damphousse",
+  "license": "MIT"
+}
